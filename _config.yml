@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: DragonFly: ASL-English MT
 description: DragonFly: ASL-English Machine Translation System
+
+avatar: https://raw.githubusercontent.com/dragonfly-asl/dragonfly-asl.github.io/main/dragonfly_logo.png
+
+url: http://dragonfly-asl.github.io
+
