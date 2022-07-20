@@ -1,5 +1,5 @@
 
-# Welcome to DragonFly Project
+# Welcome to DragonFly
 
 ## DragonFly is a ...
 
